@@ -77,7 +77,7 @@
 &trans  &trans      &trans        &kp C_BRI_DN  &kp C_BRI_UP  &trans                         &trans    &kp HOME  &kp UP   &kp END   &kp C_PWR  &trans
 &trans  &trans      &kp C_PREV    &kp C_PP      &kp C_NEXT    &trans                         &trans    &kp LEFT  &kp DOWN &kp RIGHT &trans  &trans
 &trans  &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &trans  &trans   &trans  &trans    &trans    &kp C_MUTE   &kp C_VOL_DN    &kp C_VOL_UP  &trans
-                        &trans       &trans       &trans      &trans  &trans   &trans  &mo 4     &trans    &trans   &reset
+                        &trans       &trans       &trans      &trans  &trans   &trans  &mo 4     &trans    &trans   &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp PG_UP PG_DN>;
