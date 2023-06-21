@@ -26,7 +26,7 @@
 &trans  &trans      &trans         &trans      &trans       &trans                       &trans &trans       &trans      &trans         &trans      &trans
 &trans  &kp Q       &kp W          &kp F       &kp P        &kp B                        &kp J  &kp L        &kp U       &kp Y          &kp APOS    &trans
 &trans  &hm LALT A  &hm LCTRL R    &hm LGUI S  &hm LSHFT T  &kp G                        &kp M  &hm RSHFT N  &hm RGUI E  &hm RCTRL I    &hm RALT O  &trans
-&trans  &kp Z       &kp X          &kp C       &kp D        &kp V  &kp TAB   &kp CAPS   &kp K  &kp H       &kp COMMA    &kp DOT        &kp FSLH    &trans
+&trans  &kp Z       &kp X          &kp C       &kp D        &kp V  &trans   &trans   &kp K  &kp H       &kp COMMA    &kp DOT        &kp FSLH    &trans
         &trans      &trans         &kp TAB      &lt 1 BSPC   &lt 2 RET        &lt 3 SPACE &lt 4 ESC  &kp CAPS    &trans   &trans
             >;
 
